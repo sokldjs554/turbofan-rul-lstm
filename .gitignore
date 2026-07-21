@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+!data/README.md
+results/*.pt
+.ipynb_checkpoints/
+.DS_Store
